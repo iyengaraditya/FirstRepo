@@ -2,7 +2,6 @@
 title: "State of the Non-Banking Financial Companies (NBFCs) in India"
 author: "Chaitanya Johari"
 date: "10/04/2020"
-output: pdf_document
 ---
 ## Introduction
 The RBI defines an NBFC as:
